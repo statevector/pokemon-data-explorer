@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --address=0.0.0.0 --allow-websocket-origin=hidden-dawn-37782.herokuapp.com --use-xheaders pokemon.py
+web: bokeh serve --port=$PORT --address=0.0.0.0 --allow-websocket-origin=pokemon-data-explorer.herokuapp.com --use-xheaders pokemon.py
