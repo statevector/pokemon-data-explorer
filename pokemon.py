@@ -119,7 +119,7 @@ def update_plot():
 		sp_defense=df['sp_defense'],
 		speed=df['speed'])
 
-df = load_data('data/pokemon_modified_sorted_v2.csv')
+df = load_data('pokemon.csv')
 
 source = ColumnDataSource(data=dict(x=[], 
 	y=[], 
