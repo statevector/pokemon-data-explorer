@@ -1,4 +1,4 @@
-# Pokemon Data Explorer
+# Pokémon Data Explorer
 
 Looking to build a Pokémon team? This web app provides a convenient, customizable visualization that displays specific  Pokémon depending on the precise user requirements (e.g. HP, attack, type, generation, etc.). With over 800 individual Pokémon, and more on the way, this provides a convenient way to explore the data, and find the right Pokémon to build your team!
 
